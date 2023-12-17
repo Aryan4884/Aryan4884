@@ -58,9 +58,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan4884&show_icons=true&locale=en&layout=compact" alt="Aryan4884" /></p>
+  <p><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan4884&show_icons=true&locale=en&layout=compact" alt="Aryan4884" /></p>
 
-<p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=Aryan4884&show_icons=true&locale=en" alt="Aryan4884" /></p>
+<p>&nbsp;<img width=350 src="https://github-readme-stats.vercel.app/api?username=Aryan4884&show_icons=true&locale=en" alt="Aryan4884" /></p>
 <br>
 <p><img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4884&" alt="Aryan4884" /></p>
 
