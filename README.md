@@ -21,14 +21,16 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="aryanraj2912n@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-raj-48n/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="[https://salesp07.github.io](https://instagram.com/aryan_raj1608?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank">
+     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fsocial-instagram-icon-1024x1024- 
+               qshv5qmi.png&tbnid=UJqtJsJ2_YrDQM&vet=12ahUKEwiKt5eMmZaDAxUabmwGHUEzCEIQMygIegUIARCEAQ..i&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F193720%2Fsocial-instagram&docid=CVI- 
+               dBUmytzp3M&w=1024&h=1024&q=instagram%20icon&ved=2ahUKEwiKt5eMmZaDAxUabmwGHUEzCEIQMygIegUIARCEAQ"/>
   </a>
 </div>
 
