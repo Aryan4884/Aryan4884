@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Multiple Hackathon Winner and tech enthusiast</h3>
 
 <br/>
 
@@ -12,9 +13,9 @@
  
  🔭 I’m currently working on **open source issues**
  
- 🌱 I’m currently learning **Docker, Vue, Supabase**
+ 🌱 I’m currently learning **Golang, Vue, Supabase**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Aryan4884/Aryan4884/issues)**
+💬 Ask me about **MERN, Devops... or anything [here](https://github.com/Aryan4884/Aryan4884/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
